@@ -1,6 +1,14 @@
 body {
-	background-color: #fff;
+	background-color: #c8a2c8;
 	color: black;
 }
 
-/* ROYGBIV */
+img {
+	width: 300px;
+	height: 400px;
+	object-fit: cover;
+	object-position: center;
+	overflow: hidden;
+	/* margin: 10px; */
+	/* border: 4px solid black; */
+}
